@@ -1,2 +1,0 @@
-# Mypos
-project for SE
